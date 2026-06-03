@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & discussion
+    url: https://github.com/orgs/eliancodes-com/discussions
+    about: Ask questions and discuss ideas with the community.
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/eliancodes-com/.github/security/policy
+    about: Please report security issues privately, not as public issues.
+  - name: 📬 Business & project inquiries
+    url: mailto:hello@elian.codes
+    about: Want to hire us or discuss a project? Email hello@elian.codes.

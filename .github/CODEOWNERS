@@ -1,0 +1,8 @@
+# Default code owners for ElianCodes repositories.
+# These owners are requested for review when someone opens a PR.
+# A repository can override this by adding its own .github/CODEOWNERS file.
+#
+# Docs: https://docs.github.com/articles/about-code-owners
+
+# Default owner for everything in the repo.
+* @ElianCodes
