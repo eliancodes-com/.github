@@ -8,9 +8,9 @@ ElianCodes is the studio of [Elian Van Cutsem](https://elian.codes) — a Belgiu
 agency crafting modern websites and web apps with **Astro**, **TypeScript**, and a
 healthy obsession for performance and developer experience.
 
-[![Website](https://img.shields.io/badge/elian.codes-000?style=for-the-badge&logo=astro&logoColor=white)](https://elian.codes)
+[![Website](https://img.shields.io/badge/eliancodes.com-000?style=for-the-badge&logo=astro&logoColor=white)](https://eliancodes.com)
 [![Email](https://img.shields.io/badge/hello@elian.codes-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@elian.codes)
-[![Location](https://img.shields.io/badge/Belgium-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black)](https://elian.codes)
+[![Location](https://img.shields.io/badge/Belgium-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black)](https://eliancodes.com)
 
 </div>
 
@@ -36,7 +36,7 @@ healthy obsession for performance and developer experience.
 
 Got a project in mind? We'd love to hear about it.
 
-📬 **[hello@elian.codes](mailto:hello@elian.codes)** · 🌐 **[elian.codes](https://elian.codes)**
+📬 **[hello@elian.codes](mailto:hello@elian.codes)** · 🌐 **[eliancodes.com](https://eliancodes.com)**
 
 <div align="center">
 <sub>Made with care in Belgium 🇧🇪</sub>

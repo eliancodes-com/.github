@@ -30,6 +30,6 @@ Do **not** open a public issue for security vulnerabilities. Follow our
 Looking to hire us or discuss a project? Reach out directly:
 
 - **Email:** [hello@elian.codes](mailto:hello@elian.codes)
-- **Web:** [elian.codes](https://elian.codes)
+- **Web:** [eliancodes.com](https://eliancodes.com)
 
 We'll get back to you as soon as we can.
