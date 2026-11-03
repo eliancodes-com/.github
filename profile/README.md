@@ -2,13 +2,11 @@
 
 # ElianCodes
 
-### Web experiences that are fast, accessible, and built to last.
+### I build products — and help teams ship theirs.
 
-ElianCodes is the studio of [Elian Van Cutsem](https://elian.codes) — a Belgium-based
-agency crafting modern websites and web apps with **Astro**, **TypeScript**, and a
-healthy obsession for performance and developer experience.
+[ElianCodes](https://eliancodes.com) is the studio of [Elian Van Cutsem](https://elian.codes): Laravel, Astro and AI development from Belgium. Games, wedding tools and event photos, plus a limited amount of consultancy through ElianCodes BV.
 
-[![Website](https://img.shields.io/badge/eliancodes.com-000?style=for-the-badge&logo=astro&logoColor=white)](https://eliancodes.com)
+[![Website](https://img.shields.io/badge/eliancodes.com-000?style=for-the-badge)](https://eliancodes.com)
 [![Email](https://img.shields.io/badge/hello@elian.codes-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@elian.codes)
 [![Location](https://img.shields.io/badge/Belgium-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black)](https://eliancodes.com)
 
@@ -16,21 +14,28 @@ healthy obsession for performance and developer experience.
 
 ---
 
+## Products we ship
+
+Products ElianCodes builds and runs — not client logos.
+
+- **[Kluut!](https://eliancodes.com/projects/kluut)** — a pixel RPG in the style of the Game Boy Advance classics, set in the real city of Ghent: catch Kreaturen, have a pint and break the curse of the Noose Bearer. Out on [Google Play](https://play.google.com/store/apps/details?id=com.eliancodes.kluut) and the [Microsoft Store](https://apps.microsoft.com/detail/9nzf1nt5nr96).
+- **[Ringske](https://ringske.be)** — a wedding planner for Flemish couples: guest list, RSVPs through one QR code, the Belgian deadlines, budget and a wedding site — on the web and on Android.
+- **[Rolleke](https://rolleke.be)** — a digital disposable camera for events: 36 shots, no preview, no deleting — the album is only revealed once the party is over.
+- **[Conference Ratings](https://conference-ratings.com)** — honest, verified ratings of tech conferences by the developers who actually attended them *(in beta)*.
+
+See all of them on [eliancodes.com/projects](https://eliancodes.com/projects).
+
 ## What we do
 
-- **Websites & web apps** — marketing sites, dashboards, and everything in between.
-- **Astro & the modern web** — content-driven sites that ship almost zero JS by default.
-- **Performance & accessibility** — fast Core Web Vitals and inclusive UIs as a baseline, not an afterthought.
-- **Open source** — we build in the open and give back where we can.
+- **AI & automation** — integrations, MCP servers, agent workflows and automation, built into products people already use.
+- **Laravel** — Laravel and Livewire applications from Ghent: APIs, admin screens and the product itself.
+- **Astro** — content sites, documentation and migrations; Elian maintains Astro.
+- **Web performance** — audits and optimisation so sites pass Core Web Vitals and load fast.
+- **Technical consulting** — hands-on advice on architecture, tech stack and strategy, from someone who still writes the code.
 
-## Tech we love
+## One founder
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+ElianCodes BV is Elian. Consultancy sits next to his work as CTO at Vulpo.
 
 ## Work with us
 
